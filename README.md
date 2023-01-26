@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riflab, a Geophysicist, bloger, book writer, as well as a father of two beautiful daughter
-- 👀 I’m interested in geophysical computation including data processing, analysis, modeling ana inversion. 
+- 👀 I’m interested in geophysical computation including data processing, analysis, modeling and inversion. 
 - 💞️ I’m looking to collaborate on the geophysical computation (MT, TDEM, Gravity, Magnetic, MEQ, HCSR, SPAC etc.)
 - 📫 How to reach me? you can send an email to arif.darmawan@riflab.com or connet in Linkedin https://www.linkedin.com/in/arifdarmawan/
 
