@@ -8,15 +8,16 @@ I’m passionate about leveraging computational geophysics to solve real-world p
 
 ### 🔬 What I Do
 - 🌋 Working on **geophysical computation**, including **data processing, analysis, modeling, and inversion**.
-- 🔧 Developing and contributing to **open-source geophysical tools** for **MT, TDEM, Gravity, Magnetic, Seismology, HCSR, SPAC**, and more.
+- 🔧 Developing and contributing to **open-source geophysical tools** for **Magnetotelluric (MT), Time-Domain Electromagnetic (TDEM), Gravity, Magnetic, Seismology, Horizontal-to-Vertical Spectral Ratio (HVSR), Spatial Autocorrelation (SPAC)**, and more.
 - 💡 Bridging **geophysics and coding**, particularly in **Python and C++**.
 - 📢 Open to **collaborations and knowledge sharing** on geophysics and scientific computing projects.
 
 ### 💬 Let’s Connect!
-- 📩 **Email**: arif.darmawan29@gmail.com  
-- 🐦 [**Twitter**](https://twitter.com/arifdarmawan___)  
-- 📸 [**Instagram**](https://instagram.com/arifdarmawan___)  
-- 💼 [**LinkedIn**](https://linkedin.com/in/arifdarmawan)  
+- Website: https://www.arifdarmawan.com
+- Email: arif.darmawan29@gmail.com  
+- X: https://twitter.com/arifdarmawan___
+- Threads: https://www.threads.net/@arifdarmawan___
+- LinkedIn: https://linkedin.com/in/arifdarmawan  
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
