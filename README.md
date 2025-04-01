@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riflab" alt="riflab" /></a> </p>
 
-- 🔭 I’m currently working on **the geophysical computation including data processing, analysis, modeling and inversion**
+- 🔭 I’m currently working on **the geophysical computation including data processing, analysis, modeling, and inversion**
 
 - 👯 I’m looking to collaborate on **the geophysical free professional software of MT, TDEM, Gravity, Magnetic, Seismology, HCSR, SPAC, etc**
 
 - 💬 Ask me about **geophysicist and python**
 
-- 📫 How to reach me **arif.darmawan@riflab.com**
+- 📫 How to reach me **arif.darmawan29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
